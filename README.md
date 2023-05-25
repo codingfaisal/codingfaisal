@@ -1,12 +1,11 @@
-#### Hi there 👋
-### I'm Mohammad Faisal Ali - aka [codingfaisal][github]
+#### Hey there 👋
+### Its [codingfaisal][github] here
 
-## I'm a Developer, and a forever Learner!
-- 🔭 I’m currently a Software Developer Intern at [Awwaltech][website]!
+## I'm a Software Developer, and a forever Learner!
+- 🔭 I’m currently a Software Developer Intern at [Awwaltech][website]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers and creators
 - 🥅 2023 Goal: Contribute more to Open Source projects
-- ⚡ Fun fact: I was more into making a career in sports until I went on to explore this awesome world of 0s and 1s
 
 ### Connect with me:
 
