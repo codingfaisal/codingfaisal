@@ -5,7 +5,7 @@
 - 🔭 I’m currently a Software Developer at [Drupway Infotech][website]
 - 🌱 I’m just learning everything 🤣
 - 👯 Open to work on any project in Software and Networking domains
-- 🥅 Life Goal: Contribute and engineer things for good. 
+- 🥅 Life Goal: Engineer things for good. 
 
 ### Connect with me:
 
