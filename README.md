@@ -1,11 +1,11 @@
 #### Hey there 👋
 ### Its [codingfaisal][github] here
 
-## I'm a Software Developer, and a forever Learner!
-- 🔭 I’m currently a Software Developer Intern at [Awwaltech][website]
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers and creators
-- 🥅 2023 Goal: Contribute more to Open Source projects
+## A Software Engineer, and a forever Learner!
+- 🔭 I’m currently a Software Developer at [Drupway Infotech][website]
+- 🌱 I’m just learning everything 🤣
+- 👯 Open to work on any project in Software and Networking domains
+- 🥅 Life Goal: Contribute and engineer things for good. 
 
 ### Connect with me:
 
@@ -17,7 +17,7 @@
 <br />
 
 [github]: https://github.com/codingfaisal
-[website]: https://awwaltech.com
+[website]: https://www.drupway.com
 [twitter]: https://twitter.com/codingfaisal
 [linkedin]: https://linkedin.com/in/codingfaisal
 [instagram]: https://instagram.com/codingfaisal
