@@ -4,7 +4,7 @@
 ## A Software Engineer, and a forever Learner!
 - 🔭 I’m currently a Software Developer at [Drupway Infotech][website]
 - 🌱 I’m just learning everything 🤣
-- 👯 Open to work on any project in Software and Networking domains
+- 👯 Open to work on any project in Software Development, Networking and Security domains
 - 🥅 Life Goal: Engineer things for good. 
 
 ### Connect with me:
